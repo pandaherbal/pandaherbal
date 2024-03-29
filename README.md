@@ -1,4 +1,4 @@
-<h2 align="center">i HEckiN LOoOooOVe TaANks</h2>
+<h2 align="center">Hello, my name is Iqbal! Nice to meet you</h2>
 
 ###
 
